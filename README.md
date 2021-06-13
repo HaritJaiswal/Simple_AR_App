@@ -11,4 +11,4 @@ function in the MainActivity.java file.
 
 Also your phone should have latest version of Google AR services installed from Playstore if you run the app on phone.
 
-This project is perfect for a demo of AR services and serves as an entry into makin AR apps.
+This project is perfect for a demo of AR services and serves as an entry point into making AR apps.
