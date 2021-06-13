@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AR_app_final</string>
+    <string name="google_ar_services_enabled">Google AR services enabled</string>
+</resources>
